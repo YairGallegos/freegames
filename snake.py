@@ -8,6 +8,7 @@ Exercises
 """
 
 # comentarioo
+# nuevo comentario
 
 from random import randrange
 from turtle import update, clear, ontimer, setup, hideturtle, tracer, \

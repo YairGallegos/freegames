@@ -7,7 +7,7 @@ Exercises
 4. Change the snake to respond to mouse clicks.
 """
 
-# comentario
+# comentarioo
 
 from random import randrange
 from turtle import update, clear, ontimer, setup, hideturtle, tracer, \
